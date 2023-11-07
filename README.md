@@ -5,7 +5,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/killtoyz">
-    <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&size=28&duration=3000&pause=1000&color=309975&center=true&vCenter=true&random=false&width=440&lines=I+want+to+break+free;Junior+C%23+Developer" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&size=28&duration=3000&pause=1000&color=309975&center=true&vCenter=true&random=false&width=440&lines=I+want+to+break+free;C%23+Developer" /></a>
 </p>
 
 <!--Social icons with ref-->

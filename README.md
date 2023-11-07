@@ -39,6 +39,6 @@
 </p>
 <h3 align="center"> 📐 Markup languages: </h3>
 <p align="center" >
-    <a href="#"><img alt="WPF" src="https://img.shields.io/badge/WPF-XAML-white?labelColor=blue&color=%23669cf2"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/M-Markdown-gray?logoColor=gray&labelColor=white"></a>
+    <a href="#"><img alt="WPF" src="https://img.shields.io/badge/XAML-blue?logo=.net"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>

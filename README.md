@@ -21,24 +21,33 @@
 <!--Stack section-->
 <!--Stack icons-->
 <h2 align="center"> 🛠️ My current stack 🛠️ </h2> 
-<h3 align="center"> 👨‍💻 Programming languages/Frameworks and libraries 🧰:  </h3>
+<h3 align="center"> 👨‍💻 Programming languages and Markup languages </h3>
 <p align="center">
-    <a href="#"><img width="45px" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
-    <a href="#"><img width="45px" alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/></a>
-    <a href="#"><img alt="WPF" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-    <a href="#"><img width="45px" alt="NuGet" title="NuGet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" /></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-5C2D91?logo=C%20Sharp"></a>
+    <a href="#"><img alt="WPF" src="https://img.shields.io/badge/XAML-5C2D91?logo=.net"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="NuGet" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
+<h3 align="center"> 🧰 Frameworks and libraries: </h3>
+<p align="center">
+    <a href="#"><img alt=".NET" title=".NET" src="https://img.shields.io/badge/.NET-5C2D91"/></a>
+    <a href="#"><img alt="WPF" alt=".NET (WPF)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%20%23757575?logo=materialdesign&logoColor=white"></a>
+    <a href="#"><img alt="NuGet" src="https://img.shields.io/badge/NuGet-%23004880?logo=nuget"></a>
+</p>
+<h3 align="center"> 📚 Databases </h3>
+<p align="center">  
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 </p>
 <h3 align="center"> 🔨 Other (Software/Tools): </h3>
 <p align="center" >
-    <a href="#"><img width="45px" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
-    <a href="#"><img width="45px" alt="GitDesktop" title="GitDesktop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/></a>
-    <a href="#"><img width="45px" alt="VSCode" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/></a>
-    <a href="#"><img width="45px" alt="VisualStudio" title="VisualStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></a>
-    <a href="#"><img width="45px" alt="STOverflow" title="STOverflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
-    <a href="#"><img width="45px" alt="STrello" title="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-</p>
-<h3 align="center"> 📐 Markup languages: </h3>
-<p align="center" >
-    <a href="#"><img alt="WPF" src="https://img.shields.io/badge/XAML-blue?logo=.net"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio%20-%20%235C2D91?logo=visualstudio"></a>
+    <a href="#"><img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%20%23007ACC?logo=visualstudiocode"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%20%23F05032?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop%20-8034A9?logo=github"></a>
+    <a href="#"><img alt="STOverflow" src="https://img.shields.io/badge/Stack%20Overflow%20-%20%23F58025?logo=stackoverflow&logoColor=white"></a>
+    <a href="#"><img alt="Sheets" src="https://img.shields.io/badge/Google%20sheets%20-%20%2334A853?logo=googlesheets&logoColor=white"></a>
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%20%230052CC?logo=trello"></a>
+    <a href="#"><img alt="Drawio" src="https://img.shields.io/badge/Drawio%20-%20%23F08705?logo=diagramsdotnet&logoColor=white"></a>
 </p>

@@ -21,7 +21,7 @@
 <!--Stack section-->
 <!--Stack icons-->
 <h2 align="center"> 🛠️ My current stack 🛠️ </h2> 
-<h3 align="center"> 👨‍💻 Programming languages and Markup languages </h3>
+<h3 align="center"> 👨‍💻 Programming and Markup languages </h3>
 <p align="center">
     <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-5C2D91?logo=C%20Sharp"></a>
     <a href="#"><img alt="WPF" src="https://img.shields.io/badge/XAML-5C2D91?logo=.net"></a>

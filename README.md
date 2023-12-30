@@ -49,4 +49,6 @@
     <a href="#"><img alt="Sheets" src="https://img.shields.io/badge/Google%20sheets%20-%20%2334A853?logo=googlesheets&logoColor=white"></a>
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%20%230052CC?logo=trello"></a>
     <a href="#"><img alt="Drawio" src="https://img.shields.io/badge/Drawio%20-%20%23F08705?logo=diagramsdotnet&logoColor=white"></a>
+    <a href="#"><img alt="Miro" src="https://img.shields.io/badge/Miro-yellow?logo=Miro"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E?logo=Figma&logoColor=white"></a>
 </p>

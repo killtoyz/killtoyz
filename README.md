@@ -24,7 +24,7 @@
 <h3 align="center"> 👨‍💻 Programming and Markup languages </h3>
 <p align="center">
     <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-5C2D91?logo=C%20Sharp"></a>
-    <a href="#"><img alt="WPF" src="https://img.shields.io/badge/XAML-5C2D91?logo=.net"></a>
+    <a href="#"><img alt="TS" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>

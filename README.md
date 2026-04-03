@@ -33,8 +33,8 @@
 <h3 align="center"> 🧰 Frameworks and libraries: </h3>
 <p align="center">
     <a href="#"><img alt=".NET" title=".NET" src="https://img.shields.io/badge/.NET-5C2D91"/></a>
-    <a href="#"><img alt="WPF" alt=".NET (WPF)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%20%23757575?logo=materialdesign&logoColor=white"></a>
+    <a href="#"><img alt="React" title="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+    <a href="#"><img alt="React" title="React" src="https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE"></a>
 </p>
 <h3 align="center"> 📚 Databases </h3>
 <p align="center">  
